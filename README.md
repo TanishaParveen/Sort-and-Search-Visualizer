@@ -10,6 +10,6 @@ Key Features:
 
 Technologies Used:
 
-#Streamlit
-#matplotlib
+Streamlit
+matplotlib
 
